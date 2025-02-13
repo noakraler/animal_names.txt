@@ -1,122 +1,358 @@
-Dog
-Cat
-Elephant
-Giraffe
-Lion
-Tiger
-Bear
-Wolf
-Fox
-Deer
-Rabbit
-Kangaroo
-Panda
-Zebra
-Monkey
-Dolphin
-Shark
-Whale
-Eagle
-Owl
-Penguin
-Cheetah
-Hippopotamus
-Crocodile
-Alligator
-Buffalo
-Goat
-Sheep
-Horse
-Donkey
-Camel
-Rhinoceros
-Jaguar
-Leopard
-Cobra
-Vulture
-Peacock
-Parrot
-Falcon
-Sparrow
-Hawk
-Pigeon
-Swan
-Flamingo
-Seagull
-Woodpecker
-Bat
-Moose
-Elk
-Walrus
-Otter
-Badger
-Hedgehog
-Squirrel
-Beaver
-Koala
-Sloth
-Armadillo
-Chameleon
-Lizard
-Iguana
-Tortoise
-Turtle
-Frog
-Toad
-Salamander
-Newt
-Octopus
-Jellyfish
-Starfish
-Crab
-Lobster
-Seahorse
-Squid
-Shrimp
-Mantis
-Beetle
-Butterfly
-Moth
-Dragonfly
-Mosquito
-Grasshopper
-Ant
-Termite
-Cockroach
-Centipede
-Millipede
-Scorpion
-Tarantula
-Wolf Spider
-Black Widow
-Snail
-Slug
-Mole
-Ferret
-Weasel
-Wombat
-Raccoon
-Coyote
-Porcupine
-Chimpanzee
-Gorilla
-Orangutan
-Baboon
-Macaque
-Platypus
-Dingo
-Meerkat
-Gazelle
+Aardvark
+African Elephant
+Alpaca
+Anteater
 Antelope
+Armadillo
+Baboon
+Badger
+Bandicoot
+Bat
+Beaver
 Bison
-Yak
-Arctic Fox
-Polar Bear
-Lynx
-Caracal
-Serval
-Fennec Fox
-Ocelot
+Black Bear
 Bobcat
-Jaguaru
-
+Bonobo
+Buffalo
+Bush Baby
+Camel
+Capybara
+Caracal
+Cat
+Cheetah
+Chimpanzee
+Chipmunk
+Civet
+Clouded Leopard
+Coati
+Coyote
+Cougar
+Cow
+Dingo
+Deer
+Dog
+Dolphin
+Donkey
+Dugong
+Echidna
+Elephant
+Elk
+Ermine
+Ferret
+Fennec Fox
+Flying Squirrel
+Fox
+Gazelle
+Genet
+Gibbon
+Giraffe
+Goat
+Gorilla
+Grizzly Bear
+Groundhog
+Guinea Pig
+Hamster
+Hare
+Hedgehog
+Hippopotamus
+Horse
+Human
+Hyena
+Ibex
+Impala
+Indian Elephant
+Jackal
+Jaguar
+Jerboa
+Kangaroo
+Koala
+Lemming
+Lemur
+Leopard
+Liger
+Lion
+Llama
+Lynx
+Marmoset
+Meerkat
+Mink
+Mole
+Mongoose
+Monkey
+Moose
+Mouse
+Muskox
+Narwhal
+Ocelot
+Okapi
+Opossum
+Orangutan
+Otter
+Panda
+Panther
+Pig
+Platypus
+Polar Bear
+Porcupine
+Possum
+Prairie Dog
+Pronghorn
+Puma
+Quokka
+Quoll
+Rabbit
+Raccoon
+Rat
+Red Fox
+Red Panda
+Reindeer
+Rhinoceros
+Sable
+Seal
+Serval
+Sheep
+Shrew
+Skunk
+Sloth
+Snow Leopard
+Squirrel
+Stoat
+Sugar Glider
+Sun Bear
+Takin
+Tasmanian Devil
+Tiger
+Tree Kangaroo
+Uakari
+Vervet Monkey
+Vicuña
+Walrus
+Warthog
+Water Buffalo
+Weasel
+Whale
+Wild Boar
+Wombat
+Wolf
+Wolverine
+Yak
+Zebra
+Aardvark
+African Elephant
+Alpaca
+Anteater
+Antelope
+Armadillo
+Baboon
+Badger
+Bandicoot
+Bat
+Beaver
+Bison
+Black Bear
+Blue Whale
+Bobcat
+Bonobo
+Buffalo
+Bush Baby
+Camel
+Capybara
+Caracal
+Caribou
+Cat
+Cheetah
+Chimpanzee
+Chipmunk
+Civet
+Clouded Leopard
+Coati
+Cobra
+Cockatoo
+Coyote
+Cougar
+Cow
+Crab
+Crocodile
+Dingo
+Deer
+Dog
+Dolphin
+Donkey
+Dragonfly
+Dugong
+Echidna
+Eel
+Elephant
+Elk
+Emu
+Ermine
+Falcon
+Ferret
+Fennec Fox
+Flamingo
+Flying Squirrel
+Fox
+Frog
+Gazelle
+Genet
+Gibbon
+Giraffe
+Goat
+Goose
+Gopher
+Gorilla
+Grizzly Bear
+Groundhog
+Guinea Pig
+Hamster
+Hare
+Hawk
+Hedgehog
+Hermit Crab
+Hippopotamus
+Horse
+Human
+Hummingbird
+Humpback Whale
+Hyena
+Ibex
+Iguana
+Impala
+Indian Elephant
+Jackal
+Jaguar
+Jellyfish
+Jerboa
+Kangaroo
+Koala
+Komodo Dragon
+Kookaburra
+Krill
+Lemming
+Lemur
+Leopard
+Liger
+Lion
+Llama
+Lobster
+Lynx
+Macaque
+Macaw
+Mamba
+Mammoth
+Marmoset
+Meerkat
+Millipede
+Mink
+Mole
+Mongoose
+Monitor Lizard
+Monkey
+Moose
+Moth
+Mouse
+Muskox
+Narwhal
+Newt
+Ocelot
+Octopus
+Okapi
+Opossum
+Orangutan
+Osprey
+Otter
+Owl
+Oyster
+Panda
+Panther
+Parrot
+Peacock
+Pelican
+Penguin
+Peregrine Falcon
+Pig
+Pigeon
+Platypus
+Polar Bear
+Porcupine
+Porpoise
+Possum
+Prairie Dog
+Praying Mantis
+Pronghorn
+Puma
+Python
+Quail
+Quokka
+Quoll
+Rabbit
+Raccoon
+Ram
+Rat
+Rattlesnake
+Red Fox
+Red Panda
+Reindeer
+Rhinoceros
+Salamander
+Scorpion
+Sea Anemone
+Sea Cucumber
+Sea Lion
+Sea Turtle
+Seagull
+Seal
+Serval
+Shark
+Sheep
+Shrew
+Shrimp
+Skink
+Skunk
+Sloth
+Snow Leopard
+Snail
+Snake
+Sparrow
+Spider
+Squid
+Squirrel
+Starfish
+Stoat
+Sugar Glider
+Sun Bear
+Swan
+Swordfish
+Takin
+Tasmanian Devil
+Tarantula
+Termite
+Tiger
+Toad
+Tortoise
+Tree Frog
+Tree Kangaroo
+Tuna
+Turkey
+Turtle
+Uakari
+Vampire Bat
+Vervet Monkey
+Vicuña
+Viper
+Vulture
+Walrus
+Warthog
+Water Buffalo
+Weasel
+Whale
+Wild Boar
+Wildebeest
+Wolf
+Wolverine
+Wombat
+Woodpecker
+Worm
+Yak
+Zebra
+Zebu
