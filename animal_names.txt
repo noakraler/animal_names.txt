@@ -1,267 +1,166 @@
 Aardvark
-African Elephant
+Albatross
+Alligator
 Alpaca
+Anaconda
+Angelfish
+Ant
 Anteater
 Antelope
 Armadillo
+Axolotl
 Baboon
 Badger
+Bald Eagle
 Bandicoot
+Barn Owl
+Barracuda
 Bat
 Beaver
+Bee
+Beetle
+Beluga
 Bison
-Black Bear
+Black Panther
+Black Widow
+Blobfish
+Blue Jay
+Boar
 Bobcat
 Bonobo
-Buffalo
-Bush Baby
+Bongo
+Butterfly
 Camel
 Capybara
 Caracal
+Cassowary
 Cat
+Caterpillar
+Cattle
+Centipede
 Cheetah
+Chicken
 Chimpanzee
+Chinchilla
 Chipmunk
-Civet
-Clouded Leopard
-Coati
-Coyote
-Cougar
-Cow
-Dingo
-Deer
-Dog
-Dolphin
-Donkey
-Dugong
-Echidna
-Elephant
-Elk
-Ermine
-Ferret
-Fennec Fox
-Flying Squirrel
-Fox
-Gazelle
-Genet
-Gibbon
-Giraffe
-Goat
-Gorilla
-Grizzly Bear
-Groundhog
-Guinea Pig
-Hamster
-Hare
-Hedgehog
-Hippopotamus
-Horse
-Human
-Hyena
-Ibex
-Impala
-Indian Elephant
-Jackal
-Jaguar
-Jerboa
-Kangaroo
-Koala
-Lemming
-Lemur
-Leopard
-Liger
-Lion
-Llama
-Lynx
-Marmoset
-Meerkat
-Mink
-Mole
-Mongoose
-Monkey
-Moose
-Mouse
-Muskox
-Narwhal
-Ocelot
-Okapi
-Opossum
-Orangutan
-Otter
-Panda
-Panther
-Pig
-Platypus
-Polar Bear
-Porcupine
-Possum
-Prairie Dog
-Pronghorn
-Puma
-Quokka
-Quoll
-Rabbit
-Raccoon
-Rat
-Red Fox
-Red Panda
-Reindeer
-Rhinoceros
-Sable
-Seal
-Serval
-Sheep
-Shrew
-Skunk
-Sloth
-Snow Leopard
-Squirrel
-Stoat
-Sugar Glider
-Sun Bear
-Takin
-Tasmanian Devil
-Tiger
-Tree Kangaroo
-Uakari
-Vervet Monkey
-Vicuña
-Walrus
-Warthog
-Water Buffalo
-Weasel
-Whale
-Wild Boar
-Wombat
-Wolf
-Wolverine
-Yak
-Zebra
-Aardvark
-African Elephant
-Alpaca
-Anteater
-Antelope
-Armadillo
-Baboon
-Badger
-Bandicoot
-Bat
-Beaver
-Bison
-Black Bear
-Blue Whale
-Bobcat
-Bonobo
-Buffalo
-Bush Baby
-Camel
-Capybara
-Caracal
-Caribou
-Cat
-Cheetah
-Chimpanzee
-Chipmunk
-Civet
-Clouded Leopard
-Coati
+Clam
+Clownfish
 Cobra
-Cockatoo
-Coyote
+Cockroach
+Cod
+Condor
+Coral
 Cougar
 Cow
+Coyote
 Crab
+Crane
 Crocodile
-Dingo
+Crow
+Cuckoo
 Deer
-Dog
+Dhole
+Dingo
 Dolphin
 Donkey
+Dormouse
 Dragonfly
+Duck
 Dugong
+Eagle
 Echidna
 Eel
+Egret
 Elephant
 Elk
 Emu
-Ermine
 Falcon
 Ferret
-Fennec Fox
+Finch
+Firefly
+Fish
 Flamingo
-Flying Squirrel
+Flea
+Fly
 Fox
 Frog
 Gazelle
-Genet
+Gecko
+Gerbil
 Gibbon
 Giraffe
 Goat
+Goldfish
 Goose
-Gopher
 Gorilla
+Grasshopper
+Great White Shark
 Grizzly Bear
-Groundhog
+Grouse
+Guanaco
 Guinea Pig
+Gull
 Hamster
 Hare
 Hawk
 Hedgehog
-Hermit Crab
+Heron
+Herring
 Hippopotamus
+Hornet
 Horse
-Human
 Hummingbird
 Humpback Whale
 Hyena
-Ibex
 Iguana
-Impala
-Indian Elephant
-Jackal
+Indian Cobra
+Indian Star Tortoise
 Jaguar
+Jay
 Jellyfish
-Jerboa
 Kangaroo
+Kingfisher
+Kiwi
 Koala
 Komodo Dragon
-Kookaburra
 Krill
+Ladybug
 Lemming
 Lemur
 Leopard
-Liger
 Lion
+Lizard
 Llama
 Lobster
 Lynx
-Macaque
 Macaw
-Mamba
-Mammoth
-Marmoset
+Magpie
+Mallard
+Manatee
+Mandrill
+Mantis
+Marmot
 Meerkat
-Millipede
 Mink
 Mole
 Mongoose
-Monitor Lizard
 Monkey
 Moose
+Mosquito
 Moth
+Mountain Lion
 Mouse
-Muskox
 Narwhal
 Newt
-Ocelot
+Nightingale
 Octopus
-Okapi
 Opossum
 Orangutan
-Osprey
+Orca
+Ostrich
 Otter
 Owl
+Ox
 Oyster
 Panda
 Panther
@@ -269,90 +168,877 @@ Parrot
 Peacock
 Pelican
 Penguin
-Peregrine Falcon
-Pig
+Pheasant
 Pigeon
-Platypus
 Polar Bear
 Porcupine
 Porpoise
 Possum
-Prairie Dog
-Praying Mantis
-Pronghorn
+Prawn
+Puffin
 Puma
 Python
 Quail
 Quokka
-Quoll
 Rabbit
 Raccoon
 Ram
 Rat
 Rattlesnake
-Red Fox
-Red Panda
+Raven
 Reindeer
 Rhinoceros
+Roadrunner
+Robin
+Rooster
 Salamander
+Salmon
+Sandpiper
 Scorpion
-Sea Anemone
-Sea Cucumber
 Sea Lion
-Sea Turtle
-Seagull
-Seal
-Serval
+Seahorse
 Shark
 Sheep
-Shrew
 Shrimp
-Skink
 Skunk
 Sloth
-Snow Leopard
 Snail
 Snake
-Sparrow
+Snow Leopard
 Spider
 Squid
 Squirrel
 Starfish
-Stoat
-Sugar Glider
-Sun Bear
+Stingray
 Swan
-Swordfish
-Takin
-Tasmanian Devil
 Tarantula
-Termite
 Tiger
 Toad
 Tortoise
-Tree Frog
-Tree Kangaroo
-Tuna
+Toucan
 Turkey
 Turtle
-Uakari
-Vampire Bat
-Vervet Monkey
-Vicuña
 Viper
 Vulture
+Wallaby
 Walrus
-Warthog
-Water Buffalo
+Wasp
 Weasel
 Whale
-Wild Boar
-Wildebeest
 Wolf
-Wolverine
 Wombat
 Woodpecker
 Worm
 Yak
 Zebra
 Zebu
+Zorilla
+.Aardvark
+Albatross
+Alligator
+Alpaca
+Anaconda
+Angelfish
+Ant
+Anteater
+Antelope
+Armadillo
+Axolotl
+Baboon
+Badger
+Bald Eagle
+Bandicoot
+Barn Owl
+Barracuda
+Bat
+Beaver
+Bee
+Beetle
+Beluga
+Bison
+Black Panther
+Black Widow
+Blobfish
+Blue Jay
+Boar
+Bobcat
+Bonobo
+Bongo
+Butterfly
+Camel
+Capybara
+Caracal
+Cassowary
+Cat
+Caterpillar
+Cattle
+Centipede
+Cheetah
+Chicken
+Chimpanzee
+Chinchilla
+Chipmunk
+Clam
+Clownfish
+Cobra
+Cockroach
+Cod
+Condor
+Coral
+Cougar
+Cow
+Coyote
+Crab
+Crane
+Crocodile
+Crow
+Cuckoo
+Deer
+Dhole
+Dingo
+Dolphin
+Donkey
+Dormouse
+Dragonfly
+Duck
+Dugong
+Eagle
+Echidna
+Eel
+Egret
+Elephant
+Elk
+Emu
+Falcon
+Ferret
+Finch
+Firefly
+Fish
+Flamingo
+Flea
+Fly
+Fox
+Frog
+Gazelle
+Gecko
+Gerbil
+Gibbon
+Giraffe
+Goat
+Goldfish
+Goose
+Gorilla
+Grasshopper
+Great White Shark
+Grizzly Bear
+Grouse
+Guanaco
+Guinea Pig
+Gull
+Hamster
+Hare
+Hawk
+Hedgehog
+Heron
+Herring
+Hippopotamus
+Hornet
+Horse
+Hummingbird
+Humpback Whale
+Hyena
+Iguana
+Indian Cobra
+Indian Star Tortoise
+Jaguar
+Jay
+Jellyfish
+Kangaroo
+Kingfisher
+Kiwi
+Koala
+Komodo Dragon
+Krill
+Ladybug
+Lemming
+Lemur
+Leopard
+Lion
+Lizard
+Llama
+Lobster
+Lynx
+Macaw
+Magpie
+Mallard
+Manatee
+Mandrill
+Mantis
+Marmot
+Meerkat
+Mink
+Mole
+Mongoose
+Monkey
+Moose
+Mosquito
+Moth
+Mountain Lion
+Mouse
+Narwhal
+Newt
+Nightingale
+Octopus
+Opossum
+Orangutan
+Orca
+Ostrich
+Otter
+Owl
+Ox
+Oyster
+Panda
+Panther
+Parrot
+Peacock
+Pelican
+Penguin
+Pheasant
+Pigeon
+Polar Bear
+Porcupine
+Porpoise
+Possum
+Prawn
+Puffin
+Puma
+Python
+Quail
+Quokka
+Rabbit
+Raccoon
+Ram
+Rat
+Rattlesnake
+Raven
+Reindeer
+Rhinoceros
+Roadrunner
+Robin
+Rooster
+Salamander
+Salmon
+Sandpiper
+Scorpion
+Sea Lion
+Seahorse
+Shark
+Sheep
+Shrimp
+Skunk
+Sloth
+Snail
+Snake
+Snow Leopard
+Spider
+Squid
+Squirrel
+Starfish
+Stingray
+Swan
+Tarantula
+Tiger
+Toad
+Tortoise
+Toucan
+Turkey
+Turtle
+Viper
+Vulture
+Wallaby
+Walrus
+Wasp
+Weasel
+Whale
+Wolf
+Wombat
+Woodpecker
+Worm
+Yak
+Zebra
+Zebu
+Zorilla
+Adder
+African Buffalo
+African Elephant
+African Grey Parrot
+Alaskan Malamute
+American Alligator
+American Bison
+American Bulldog
+American Cocker Spaniel
+American Flamingo
+American Foxhound
+American Lobster
+Amphibian
+Anemone
+Anglerfish
+Arctic Fox
+Arctic Hare
+Arctic Wolf
+Asian Elephant
+Asian Giant Hornet
+Asian Palm Civet
+Asp
+Australian Cattle Dog
+Australian Shepherd
+Australian Terrier
+Avocet
+Axolotl
+Aye-aye
+Baboon
+Bactrian Camel
+Bald Eagle
+Baleen Whale
+Banded Palm Civet
+Barn Owl
+Barnacle
+Barramundi
+Basking Shark
+Basset Hound
+Batfish
+Bearded Dragon
+Bearded Vulture
+Beetle
+Bengal Tiger
+Bernese Mountain Dog
+Betta Fish
+Binturong
+Bird
+Black Bear
+Black Mamba
+Black Rhinoceros
+Black Swan
+Black Widow Spider
+Blue Jay
+Blue Whale
+Bobolink
+Booby
+Bottlenose Dolphin
+Bowhead Whale
+Box Jellyfish
+Box Turtle
+Budgerigar
+Bull Ant
+Bull Shark
+Bullfrog
+Bumblebee
+Burmese Python
+Bushbaby
+Butterflyfish
+Caiman
+Camel Spider
+Capuchin Monkey
+Caribou
+Carpenter Ant
+Caterpillar
+Chameleon
+Chamois
+Cheetah
+Chickadee
+Chinook Salmon
+Chipmunk
+Cicada
+Clown Loach
+Clouded Leopard
+Cockatiel
+Cockatoo
+Cockroach
+Coelacanth
+Common Loon
+Common Toad
+Common Wombat
+Coral Snake
+Cottonmouth
+Crane Fly
+Crested Gecko
+Crocodile Monitor
+Cuttlefish
+Dachshund
+Damselfish
+Danish Swede Dog
+Darwin’s Frog
+Death Adder
+Dhole
+Diamondback Rattlesnake
+Dik-Dik
+Dingo
+Discus Fish
+Doberman Pinscher
+Dodo
+Dogue de Bordeaux
+Dove
+Dromedary Camel
+Dung Beetle
+Dusky Dolphin
+Eagle Ray
+Eastern Box Turtle
+Eastern Coral Snake
+Eastern Diamondback Rattlesnake
+Eastern Gorilla
+Eastern Tiger Salamander
+Echidna
+Eel Catfish
+Egyptian Cobra
+Egyptian Mau
+Electric Eel
+Elephant Seal
+Elephant Shrew
+Emperor Penguin
+Emperor Tamarin
+English Bulldog
+English Cocker Spaniel
+Ermine
+Eskimo Dog
+Eurasian Beaver
+European Starling
+Falabella
+False Killer Whale
+Fangtooth
+Fennec Fox
+Fire Ant
+Fire Salamander
+Fisher Cat
+Fishing Cat
+Flounder
+Florida Panther
+Flying Fish
+Flying Squirrel
+Fossa
+Frilled Lizard
+Frilled Shark
+Frogfish
+Gabon Viper
+Galapagos Penguin
+Galapagos Tortoise
+Gar
+Garter Snake
+Geoffroy’s Tamarin
+German Shepherd
+Ghost Crab
+Ghost Knifefish
+Giant African Snail
+Giant Clam
+Giant Panda
+Giant Salamander
+Giant Schnauzer
+Gila Monster
+Giraffe Weevil
+Glass Frog
+Goblin Shark
+Golden Retriever
+Golden Tortoise Beetle
+Golden-mantled Ground Squirrel
+Gopher
+Gopher Tortoise
+Grass Snake
+Gray Fox
+Gray Reef Shark
+Great Dane
+Great Hammerhead Shark
+Great White Egret
+Green Anaconda
+Green Iguana
+Green Jay
+Green Mamba
+Green Tree Frog
+Green Woodpecker
+Grey Heron
+Greyhound
+Grouper
+Guinea Fowl
+Hagfish
+Hammerhead Bat
+Hannoverian
+Harbor Seal
+Harelip Sucker
+Harp Seal
+Harpy Eagle
+Hawaiian Crow
+Hawaiian Monk Seal
+Hercules Beetle
+Himalayan
+Hippopotamus Amphibius
+Honey Badger
+Honeybee
+Horned Lizard
+Horned Owl
+Horned Viper
+Horseshoe Crab
+House Finch
+Housefly
+Hummingbird Hawk-Moth
+Indian Cobra
+Indian Elephant
+Indian Star Tortoise
+Indian Wolf
+Indian Yellow-Nosed Albatross
+Indian Bullfrog
+Ivory Gull
+Jackal
+Jackrabbit
+Japanese Beetle
+Japanese Chin
+Japanese Macaque
+Japanese Spider Crab
+Javan Rhino
+Jellyfish
+Jerboa
+Jewel Beetle
+Jumping Spider
+Kakapo
+Kangaroo Rat
+Kea
+Kermode Bear
+Key Deer
+Killer Whale
+King Cobra
+Kingfisher
+Kissing Gourami
+Koi Fish
+Komodo Dragon
+Lace Monitor
+Ladyfish
+Lake Sturgeon
+Lappet-Faced Vulture
+Leafcutter Ant
+Leatherback Sea Turtle
+Leech
+Liger
+Limpkin
+Lion's Mane Jellyfish
+Little Blue Heron
+Lizardfish
+Loggerhead Turtle
+Long-Eared Owl
+Longhorn Beetle
+Longsnout Seahorse
+Lovebird
+Lowland Anoa
+Lumpfish
+Macaroni Penguin
+Madagascar Hissing Cockroach
+Mahi Mahi
+Malayan Civet
+Malayan Krait
+Man of War Jellyfish
+Mandarin Duck
+Mandrill Baboon
+Maned Wolf
+Manta Ray
+Marine Iguana
+Markhor
+Marlin
+Marmoset
+Marsh Frog
+Masked Owl
+Mexican Black Kingsnake
+Mexican Wolf
+Millipede
+Mimic Octopus
+Mink Whale
+Mole Crab
+Mongoose Lemur
+Monitor Lizard
+Moorhen
+Mosasaurus
+Mudskipper
+Mule Deer
+Muntjac
+Musk Ox
+Muskrat
+Mussel
+Naked Mole Rat
+Narwhal Whale
+Nectar Bat
+Nematode
+Newfoundland
+New Guinea Singing Dog
+Norwegian Elkhound
+Nudibranch
+Nyala
+Oarfish
+Olive Baboon
+Oranda Goldfish
+Owl Monkey
+Pacific Halibut
+Pacific White-Sided Dolphin
+Painted Turtle
+Palm Cockatoo
+Pangolin
+Parrotfish
+Peacock Bass
+Pelagic Thresher Shark
+Percula Clownfish
+Peruvian Guinea Pig
+Pig-Nosed Turtle
+Pike Cichlid
+Pine Marten
+Pink Dolphin
+Pink Fairy Armadillo
+Platypus
+Pocket Gopher
+Polar Fox
+Proboscis Monkey
+Pronghorn Antelope
+Pufferfish
+Purple Martin
+Pygmy Marmoset
+Pygmy Seahorse
+Quetzal
+Quokka
+Quoll
+Raggiana Bird-of-paradise
+Rainbow Trout
+Red-Eared Slider
+Red Fox
+Red King Crab
+Red Panda
+Red-Tailed Hawk
+Rhinoceros Beetle
+River Dolphin
+Rockfish
+Rockhopper Penguin
+Sailfish
+Sandhill Crane
+Scallop
+Scarlet Macaw
+Scimitar Oryx
+Sea Cucumber
+Sea Sponge
+Siamese Fighting Fish
+Silkie Chicken
+Silver Arowana
+Slender Loris
+Slipper Lobster
+Snowy Egret
+Sockeye Salmon
+Southern Right Whale
+Spangled Drongo
+Sperm Whale
+Spoonbill
+Stork
+Tasmanian Devil
+Tentacled Snake
+Three-Toed Sloth
+Tiger Salamander
+Tomato Frog
+Tropicbird
+Velvet Worm
+Vinegaroon
+Viperfish
+Volcano Snail
+Wandering Albatross
+Water Dragon
+White-Tailed Eagle
+Wrasse
+Yeti Crab
+Zebra Finch
+Zorse
+Abyssinian Cat
+African Clawed Frog
+African Civet
+African Penguin
+African Wild Dog
+Alpine Goat
+Amazon River Dolphin
+American Bullfrog
+American Pit Bull Terrier
+American Toad
+Amphiuma
+Antarctic Krill
+Antarctic Toothfish
+Asian Black Bear
+Asian Longhorn Beetle
+Asian Vine Snake
+Atlantic Cod
+Atlantic Puffin
+Atlantic Salmon
+Australian Green Tree Frog
+Australian Magpie
+Australian Pelican
+Bactrian Camel
+Bali Myna
+Ball Python
+Banded Gecko
+Banded Krait
+Banded Rock Rattlesnake
+Basking Shark
+Bearded Seal
+Bell Frog
+Bengal Fox
+Big-Eyed Tree Frog
+Black Caiman
+Black Grouper
+Black Marlin
+Black-Headed Ibis
+Black-Footed Cat
+Black-Footed Ferret
+Black-Necked Stilt
+Blue Catfish
+Blue Chromis
+Blue Glaucus
+Blue Poison Dart Frog
+Blue Tang
+Blue-Ringed Octopus
+Borneo Elephant
+Borneo Pygmy Elephant
+Boxer Dog
+Brazilian Tapir
+Brine Shrimp
+Brown Bear
+Brown Recluse Spider
+Buffalo Fish
+California Condor
+California Sea Lion
+Canadian Lynx
+Cape Buffalo
+Cape Fur Seal
+Caribbean Reef Shark
+Carolina Anole
+Carp
+Caspian Tern
+Cave Salamander
+Central Bearded Dragon
+Cerulean Warbler
+Chilean Flamingo
+Chilean Rose Tarantula
+Chinese Giant Salamander
+Chinese Paddlefish
+Chinese Water Dragon
+Chow Chow
+Clouded Tiger
+Coconut Crab
+Collared Peccary
+Common Blackbird
+Common Brushtail Possum
+Common Cuckoo
+Common Eider
+Common Frog
+Common Goldeneye
+Common House Gecko
+Common Kingfisher
+Common Myna
+Common Pheasant
+Common Potoo
+Common Raven
+Common Spotted Cuscus
+Common Warthog
+Common Yellowthroat
+Copepod
+Cownose Ray
+Crimson Rosella
+Danish-Swedish Farmdog
+Darwin's Fox
+Desert Horned Lizard
+Desert Locust
+Desert Tortoise
+Dhole
+Diana Monkey
+Dusky Leaf Monkey
+Eastern Box Turtle
+Eastern Diamondback Rattlesnake
+Eastern Gray Squirrel
+Eastern Indigo Snake
+Eastern Newt
+Eastern Rosella
+Eastern Screech Owl
+Eurasian Jay
+European Hedgehog
+European Lobster
+European Mole
+European Pond Turtle
+European Wildcat
+Eyelash Viper
+Fairy Tern
+False Water Cobra
+Fiddler Crab
+Flatback Turtle
+Florida Panther
+Four-Spotted Chaser
+Freshwater Crocodile
+Frogmouth
+Ganges River Dolphin
+Garden Snail
+Ghost Mantis
+Ghost Pipefish
+Glass Lizard
+Giant Anteater
+Giant Water Bug
+Greater Flamingo
+Greater Horseshoe Bat
+Great Grey Owl
+Great Horned Owl
+Great Spotted Woodpecker
+Green Honeycreeper
+Green Sawfish
+Grey Parrot
+Ground Pangolin
+Gulf Coast Toad
+Harlequin Tuskfish
+Hawaiian Monk Seal
+Hedgehog Tenrec
+Helmeted Guinea Fowl
+Himalayan Monal
+Indian Bullfrog
+Indian Cobra
+Indian Palm Squirrel
+Indian Star Tortoise
+Ivory Gull
+Japanese Fire Belly Newt
+Japanese Spider Crab
+Javan Slow Loris
+Jungle Cat
+Kea Parrot
+King Cobra
+Kinkajou
+Knobbed Hornbill
+Lace Monitor
+Leafy Seadragon
+Leopard Tortoise
+Lesser Flamingo
+Long-Eared Jerboa
+Long-Finned Pilot Whale
+Lynx
+Mongoose
+Naked Mole Rat
+Nicobar Pigeon
+Northern Bald Ibis
+Northern Fur Seal
+Northern Gannet
+Numbat
+Okapi
+Opaleye Fish
+Orca
+Painted Stork
+Palawan Peacock-Pheasant
+Pelagic Thresher
+Pied Avocet
+Pink Salmon
+Pygmy Hippopotamus
+Radiated Tortoise
+Rainbow Lorikeet
+Rough Green Snake
+Rusty-Spotted Cat
+Saltwater Crocodile
+Siberian Crane
+Spotted Dove
+Sun Bear
+Tasmanian Tiger
+Tomato Frog
+Velvet Worm
+Water Buffalo
+White-Faced Capuchin
+Yellow-Bellied Sea Snake
+
+
